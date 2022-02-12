@@ -1,0 +1,24 @@
+ /*
+     Bu uygulama kulanýcýlarýn bir ArrayListe kayýt zamanýný da alarak
+     ekleyen ve sonrasýnda her dakikanýn ilk 10 saniyesinde kaydolanlarý
+     þanslý kullanýcý olarak ekrana yazdýran bir uygulamadýr.
+     Bunun için;
+     1- Bir user class oluþturun fields: name , kayitZamani (LocalDateTime cinsinden)
+     2- kayit isminde bir class oluþturun ve kayýtAl isminde bir metod
+     ekleyerek Kullanýcýdan user ismini alarak ArrayList e ekleyin ve bu list i
+     return edin.
+     3- Kayit classý na ayný zamanda kendine verilen
+     ArrayListteki userlardan her dakikanýn ilk  saniyesinde kaydolanlarý
+     yazdýran mutluKullanicilariYazdir isminde bir metod daha ekleyiniz.
+
+     }
+
+
+
+
+
+
+
+
+
+     */
